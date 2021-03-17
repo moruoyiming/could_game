@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:app-text/app-text.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:cgDemo/cgDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:cgui/cgui.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:cgSdk/cgSdk.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:app-demo/app-demo.xcodeproj">
+   </FileRef>
+</Workspace>

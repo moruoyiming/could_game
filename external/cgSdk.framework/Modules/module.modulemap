@@ -1,0 +1,6 @@
+framework module cgSdk {
+  umbrella header "cgSdk.h"
+
+  export *
+  module * { export * }
+}
